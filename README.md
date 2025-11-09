@@ -8,4 +8,4 @@
 
 [programa 2 . unidad 3](https://github.com/mr8igh3ad/gc202512146/blob/main/2-analizador_texto.py)
 
-[programa 3 . unidad 3]()
+[programa 3 . unidad 3](https://github.com/mr8igh3ad/gc202512146/blob/main/3-calificacion_grupo.py)
