@@ -4,7 +4,7 @@
 
 [codigo de limpieza](https://drive.google.com/file/d/1_2f91r298veVKKXUAKWeY9rEJTzCgFI0/view?usp=sharing)
 
-[programa 1 . unidad 3]()
+[programa 1 . unidad 3](https://github.com/mr8igh3ad/gc202512146/blob/main/1-control_inventario.py)
 
 [programa 2 . unidad 3]()
 
